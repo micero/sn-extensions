@@ -9,6 +9,5 @@
         "download_url": "https://github.com/standardnotes/filesafe-client/archive/1.2.5.zip",
         "marketing_url": "https://standardnotes.org/extensions/filesafe",
         "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/FileSafe-banner.png",
-        "valid_until": "2030-05-18T18:35:33.000Z",
-        "latest_url": "https://extensions.standardnotes.org/66bf5e456b904772c8ad854df82ff276b040df8eaa4ef3287389a013b00527e9/repos/latest?identifier=org.standardnotes.file-safe"
+        "valid_until": "2030-05-18T18:35:33.000Z"
 }
