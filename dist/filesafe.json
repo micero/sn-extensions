@@ -1,0 +1,14 @@
+{
+        "identifier": "org.standardnotes.file-safe",
+        "name": "FileSafe",
+        "content_type": "SN|Component",
+        "area": "editor-stack",
+        "version": "1.2.5",
+        "description": "Encrypted attachments for your notes using your Dropbox, Google Drive, or WebDAV server. Limited to 50MB per file.",
+        "url": "https://extensions.standardnotes.org/66bf5e456b904772c8ad854df82ff276b040df8eaa4ef3287389a013b00527e9/components/filesafe",
+        "download_url": "https://github.com/standardnotes/filesafe-client/archive/1.2.5.zip",
+        "marketing_url": "https://standardnotes.org/extensions/filesafe",
+        "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/FileSafe-banner.png",
+        "valid_until": "2030-05-18T18:35:33.000Z",
+        "latest_url": "https://extensions.standardnotes.org/66bf5e456b904772c8ad854df82ff276b040df8eaa4ef3287389a013b00527e9/repos/latest?identifier=org.standardnotes.file-safe"
+}
